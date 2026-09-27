@@ -1,0 +1,5 @@
+int y = 55;
+int x = 26;
+int z = x - y;
+print(z);
+
